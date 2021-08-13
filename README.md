@@ -1,11 +1,13 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋 </h2>
+<h3 align="center">It's me Mihilan !! <img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/hdpi/Mario.png" emoji-code="Mario" alt="Mario" /></h3> 
+
+- 🔭 I’m currently working on **URL Shortener**
+- 🌱 I’m currently learning **Node Js , Mongo DB**
 
 <!--
 **mihilan/mihilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+Here are some ideas to get you star
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
